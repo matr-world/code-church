@@ -14,6 +14,6 @@ Join our Discord server where you can ask questions, get access to additional re
 https://discord.gg/rQt2Y59pz7
 
 # Apps
-| **Name** | **Description** | **Demo** |
-|-|-|-|
-| Holder Snapshot | Get a list of all the holders in an NFT collection. | | 
+| **Name** | **Description** | **Code** |  **Demo** |
+|-|-|-| - |
+| Holder Snapshot | Get a list of all the holders in an NFT collection. | `/apps/holder-snapshot` |https://holder-snapshot.vercel.app/ | 
