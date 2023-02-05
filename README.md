@@ -1,38 +1,19 @@
-# create-svelte
+# ⛪️ Code Church
+A project produced by http://matr.world sharing video tutorials and exmaples showing how to build Web3 focused apps.
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+### 🎥 YouTube
+Be sure to check out our YouTube to find tutorials that go over the apps in this repo. 
 
-## Creating a project
+https://www.youtube.com/@matrworldyoutube/playlists
 
-If you're seeing this, you've probably already done this step. Congrats!
+### 🤝 Contribute
+Want to add an app? Copy, paste, then modify any of the apps in `/apps` and make a PR.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+### 💬 Community
+Join our Discord server where you can ask questions, get access to additional resources, and just hang out.
+https://discord.gg/rQt2Y59pz7
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+# Apps
+| **Name** | **Description** | **Demo** |
+|-|-|-|
+| Holder Snapshot | Get a list of all the holders in an NFT collection. | | 
